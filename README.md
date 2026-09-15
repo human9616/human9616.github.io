@@ -1,4 +1,3 @@
-# -human9616-.github.io
 # Welcome to My GitHub Pages Site
 
 ## About Me
